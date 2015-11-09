@@ -98,16 +98,17 @@
 
 * Samson Brock - Elixir on Phoenix
 * Dave Maurer
-* Matt Ewell - How not to get ripped off by your enterprise IT services provider
+* Matt Ewell
 * Matt Hecker
-* Marlo Major - How to Start a Medical Device Startup
+* Marlo Major
 * Matt Rooney
 * Edgar Duran
-* Mimi Schatz - Lessons in Refactoring: RESTful routes in RailsEngine
+* Mimi Schatz - Lessons in Refactoring: My Battle with the Cart
 
 ##### Student-Led Sessions
 
 * Aaron Careaga and Edgar Duran - How to Contribute to Open Source
+* Elixir Club
 
 ### **Week of 11/16**
 
